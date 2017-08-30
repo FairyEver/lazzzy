@@ -1,6 +1,6 @@
-# d2-website-admin
+# LAZZZY
 
-> A Vue.js project
+> 基于VUE&JAVA的代码生成解决方案(前端)
 
 ## Build Setup
 

@@ -1,7 +1,7 @@
 {
-  "name": "d2-website-admin",
+  "name": "lazzzy",
   "version": "1.0.0",
-  "description": "A Vue.js project",
+  "description": "基于VUE&JAVA的代码生成解决方案(前端)",
   "author": "李杨 <1711467488@qq.com>",
   "private": true,
   "scripts": {
